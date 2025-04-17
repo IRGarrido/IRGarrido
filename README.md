@@ -21,9 +21,9 @@
 <div style="display: inline_block">
   <h3>IDEs: </h3>
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="IntelliJIDEA" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
-  [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+  <img align="center" alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
+  <img align="center" alt="GoogleColab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff">
+  <img align="center" alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff">
 </div>
 
 </div>
