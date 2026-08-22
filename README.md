@@ -63,8 +63,7 @@ Olá! Eu sou Ian Garrido.
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ian-garrido-a7876a2a9)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/reisiangarrido/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ian-garrido-reis-a7876a2a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-0C4F69?style=for-the-badge&logo=gmail&logoColor=red)](mailto:reisiangarrido@gmail.com)
 
 ---
